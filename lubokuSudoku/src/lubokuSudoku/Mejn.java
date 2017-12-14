@@ -5,4 +5,5 @@ public class Mejn {
 	//lubosJeKokot
 	//6969
 	//ahoj
+	//This sucks.
 }
