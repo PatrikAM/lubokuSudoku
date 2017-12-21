@@ -4,6 +4,6 @@ public class Vzor {
 	public static vzor(){
 	}
 	public getVzor(){
-		return ;
+		return null;
 	}
 }

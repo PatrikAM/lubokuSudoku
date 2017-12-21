@@ -7,7 +7,7 @@ public class Platno {
 			return;
 		}
 		else{
-			//OBARVI
+			//OBARVI, ULOŽ a pak znovu defaultnì a ulož
 		}
 	}
 }
