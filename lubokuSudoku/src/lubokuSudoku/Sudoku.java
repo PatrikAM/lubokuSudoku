@@ -14,7 +14,7 @@ public class Sudoku {
 	}
 	
 	public int[] getCtverec(int c){
-		// int c musí bıt jedno z èísel: 0 3 6 27 30 33 54 57 60, aby šlo o ètverec ve kterém se èísla nesmí opakovat
+		// int c musí bıt jedno z èísel: 0 3 6 27 30 33 54 57 60, aby šlo o ètverec ve kterém se èísla nesmí opakovat!
 		return null;
 	}
 }
